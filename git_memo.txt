@@ -1,0 +1,5 @@
+https://github.com/ietomi-a/hellogit.git
+をテスト用リポジトリとして設定.
+( 以下は ssh 接続での URI
+  git@github.com:ietomi-a/hellogit.git )
+
